@@ -52,5 +52,6 @@ let packages =
       ⫽ ./groups/thomashoneyman.dhall
       ⫽ ./groups/truqu.dhall
       ⫽ ./groups/zaquest.dhall
+      ⫽ ./groups/patches.dhall
 
 in  packages
